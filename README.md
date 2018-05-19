@@ -1,7 +1,7 @@
 # git-get
 Gets git info (hehe)
 
-#Todo
+# Todo
 * Add list of possible queries
 * Tab-auto-complete possibilities
 * Run outside of project folder?
